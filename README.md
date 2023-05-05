@@ -7,4 +7,6 @@ Instagram = [@emmanuelferdinand](https://www.instagram.com/emmanuel_ferdinand/)
 
 Facebook  = [Emmanuel Ferdinand](https://www.facebook.com/emmanuelferdinand13)
 
+LinkedIn  = [Emmanuel Ferdinand Anggawirja](https://www.linkedin.com/in/emmanuelferdinandanggawirja/)
+
 ![alt text](https://github.com/emmanuelferdinand/emmanuelferdinand/blob/main/5895349.jpg)
