@@ -57,7 +57,7 @@ I love to build, break, and experiment in between, while slaving AI to center a 
 			<img src="https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white"/>
 		</td>
 	</tr>
-    	<tr>
+    <tr>
 		<td><b>🔧 Development Tools</b></td>
 		<td>
  			<img src="https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&logoColor=white"/>
@@ -78,6 +78,12 @@ I love to build, break, and experiment in between, while slaving AI to center a 
 			<img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Forgejo-%23FB923C?logo=forgejo&logoColor=white"/>
 			<img src="https://img.shields.io/badge/SonarQube-%2300A6A6?logo=sonarqube&logoColor=white"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>☁︎ Cloud Service</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws&logoColor=%23FF9900"/>
 		</td>
 	</tr>
 </table>
