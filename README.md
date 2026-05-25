@@ -8,7 +8,7 @@ I love to build, break, and experiment in between, while slaving AI to center a 
 
 - 🔧 Currently working as a **Software Engineer**
 - 🌱 Currently learning **AI Agent optimization, Forgejo, and Vitest**
-- ⚡ Fun fact: I don't like bananas.
+- 💡 Fun fact: I don't like bananas.
 
 <!-- --- -->
 
