@@ -33,6 +33,7 @@ I love to build, break, and experiment in between, while slaving AI to center a 
 		<td>
 			<img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black"/>
             <img src="https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white"/>
+			<img src="https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white"/>
 		</td>
 	</tr>
     </tr>
