@@ -7,7 +7,7 @@
 I love to build, break, and experiment in between, while slaving AI to center a div. Open to learning new stuff, even if it's unrelated to tech. 
 
 - 🔧 Currently working as a **Software Engineer**
-- 🌱 Currently learning **AI Agent optimization, Forgejo, and Vitest**
+- 🌱 Currently learning **AI Agent optimization, Forgejo action, and Redis**
 - 💡 Fun fact: I don't like bananas.
 
 <!-- --- -->
